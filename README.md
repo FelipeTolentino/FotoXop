@@ -1,4 +1,16 @@
 # FotoXop
 Trabalho desenvolvido na disciplina de Estruturas de Dados I
 
-O objetivo era a implementação de filtros aplicáveis nas imagens, sendo obrigatórios o Escala de Cinza, Negativo, Sobel e Detecção de Bordas de LaPlace.
+O objetivo era a implementação de filtros aplicáveis nas imagens por meios como matrizes de convolução, entre outros. Os filtros implementados foram:
+  Clarear
+  Escurescer
+  Escala de Cinza
+  Escala de Cinza (ponderada)
+  Sobel
+  Detecção de Bordas de Laplace
+  Destacar Relevo
+  Troca de Cores
+  Espalhar
+  Negativo
+  Listras
+  Glitch
