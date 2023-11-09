@@ -1,4 +1,4 @@
-# FotoXop
+# 🖼 FotoXop
 #### Trabalho desenvolvido na disciplina de Estruturas de Dados I
 
 Editor de imagens que permite a aplicação dos seguintes filtros:  
